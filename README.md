@@ -1,6 +1,7 @@
 ## WeatherBot ( using older Rasa NLU and RASA Core)
 
 A text chatbot based on Rasa NLU and RASA Core that interacts with user and gives real-time weather information via https://www.apixu.com/ API.
+Based on tutorial at https://jpboost.com/2018/02/06/creating-a-chatbot-with-rasa-nlu-and-rasa-core/
 
 ## How to use this Repo
 
